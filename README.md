@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning React
 - 👯 Starting on my Bachelor's Project
 - 📫 How to reach me: gisle-garen2809@hotmail.com
+- 🤓 Team Integer_Overflow @Bouvet_Penguin_Battle_Royale_Hackathon
 - 😄 Hobbies: Analog photography, tailoring, cooking and dancing! 
 - ⚡ Fun fact: My profile picture was taken with my first film roll!
 <br>
