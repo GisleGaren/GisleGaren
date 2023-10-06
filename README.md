@@ -11,6 +11,7 @@
 </p>
 
 - 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2024
+- 💼 Sparebank1 Utvikling intern 2024
 - 🌱 I’m currently learning React
 - 👯 Starting on my Bachelor's Project
 - 📫 How to reach me: gisle-garen2809@hotmail.com
