@@ -13,10 +13,10 @@
 - 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2024
 - 💼 Sparebank1 Utvikling intern 2024
 - 🌱 I’m currently learning React
-- 👯 Starting on my Bachelor's Project
+- 👯 Starting on my Bachelor's Project @ NAV IT
 - 📫 How to reach me: gisle-garen2809@hotmail.com
 - 🤓 Team Integer_Overflow @Bouvet_Penguin_Battle_Royale_Hackathon
-- 😄 Hobbies: Analog photography, tailoring, cooking and dancing! 
+- 😄 Hobbies: Analog photography, tailoring, and dancing! 
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
