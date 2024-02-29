@@ -15,8 +15,8 @@
 - 🌱 I’m currently learning React
 - 👯 Starting on my Bachelor's Project @ NAV IT
 - 📫 How to reach me: gisle-garen2809@hotmail.com
-- 🤓 Team Integer_Overflow @Bouvet_Penguin_Battle_Royale_Hackathon
-- 😄 Hobbies: Analog photography, tailoring, and dancing! 
+- 🤓 Competed and won NeuralMet x Bouvet's 2023 Battle Royale and 2024 Capture the Flag hackathon
+- 😄 If I am not doing programming, you'll find me at OSI Groupdance doing choreographies!
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
