@@ -11,9 +11,6 @@
 </p>
 
 - 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2024
-- 💼 Sparebank1 Utvikling intern 2024
-- 🌱 I’m currently learning React
-- 👯 Bachelor's Project @ NAV IT with codename "Vju" - A document tool for NAV Case-Managers
 - 📫 How to reach me: gisle-garen2809@hotmail.com
 - 🤓 Competed and won NeuralMet x Bouvet's 2023 Battle Royale and 2024 Capture the Flag hackathon
 - 😄 If I am not doing programming, you'll find me at OSI Groupdance doing choreographies!
