@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/Languages-Norwegian%2C%20English-orange" />
 </p>
 
-- 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2024
+- 🎓 Bachelor of Engineering in Computer Science, Oslo Metropolitan University, 2024
 - 📫 How to reach me: gisle-garen2809@hotmail.com
-- 🤓 Competed and won NeuralMet x Bouvet's 2023 Battle Royale and 2024 Capture the Flag hackathon
+- 🤓 Currently working on my own personal website
 - 😄 If I am not doing programming, you'll find me at OSI Groupdance doing choreographies!
 <br>
 
@@ -34,10 +34,7 @@
        <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="40" height="40" />
        <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="40" height="40" />
        <img src="https://user-images.githubusercontent.com/136815194/257137842-82df4543-236b-4e45-9604-5434e3faab17.png" width="40" height="40" />
-  
-- **Work in Progress**:
-
-   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="40" height="40"/>
+       <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="40" height="40"/>
 
 - **Tools**:
 
